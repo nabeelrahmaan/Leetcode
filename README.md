@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/NabeelRahman-07/Leetcode/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/NabeelRahman-07/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/NabeelRahman-07/Leetcode/tree/master/0507-perfect-number) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/NabeelRahman-07/Leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1688-count-of-matches-in-tournament](https://github.com/NabeelRahman-07/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 ## Array
 |  |
