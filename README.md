@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/NabeelRahman-07/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NabeelRahman-07/Leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/NabeelRahman-07/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/NabeelRahman-07/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/NabeelRahman-07/Leetcode/tree/master/0507-perfect-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/NabeelRahman-07/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NabeelRahman-07/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NabeelRahman-07/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0239-sliding-window-maximum](https://github.com/NabeelRahman-07/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/NabeelRahman-07/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/NabeelRahman-07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/NabeelRahman-07/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1528-shuffle-string](https://github.com/NabeelRahman-07/Leetcode/tree/master/1528-shuffle-string) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/NabeelRahman-07/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NabeelRahman-07/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NabeelRahman-07/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/NabeelRahman-07/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NabeelRahman-07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/NabeelRahman-07/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NabeelRahman-07/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/NabeelRahman-07/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/NabeelRahman-07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NabeelRahman-07/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NabeelRahman-07/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/NabeelRahman-07/Leetcode/tree/master/0268-missing-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NabeelRahman-07/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Two Pointers
 |  |
@@ -144,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/NabeelRahman-07/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/NabeelRahman-07/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
